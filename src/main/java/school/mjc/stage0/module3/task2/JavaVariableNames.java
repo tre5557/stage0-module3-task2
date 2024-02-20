@@ -1,6 +1,7 @@
 package school.mjc.stage0.module3.task2;
 
 public class JavaVariableNames {
+
     public static void main(String[] args) {
         int morrow = 0;
         int money = 10;
